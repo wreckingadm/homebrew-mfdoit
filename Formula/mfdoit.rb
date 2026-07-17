@@ -1,9 +1,9 @@
 class Mfdoit < Formula
   desc "High-efficiency personal task manager"
   homepage "https://github.com/wreckingadm/mfdoit"
-  url "https://github.com/wreckingadm/homebrew-mfdoit/releases/download/mfdoit-cli-v1.6.6/mfdoit-v1.6.6-1c78f5c-darwin-arm64.tar.gz"
-  sha256 "35aaadf1b3e5bbc6f24a41601b0496cab9e09b62dda90d8b32edf164974df5dd"
-  version "1.6.6"
+  url "https://github.com/wreckingadm/homebrew-mfdoit/releases/download/mfdoit-cli-v1.7.0/mfdoit-v1.7.0-5e86dc6-darwin-arm64.tar.gz"
+  sha256 "44918a61be037c859d74a85ad46e131731da1a65addcb49db930ee0374f85e36"
+  version "1.7.0"
 
   def install
     libexec.install Dir["*"]
