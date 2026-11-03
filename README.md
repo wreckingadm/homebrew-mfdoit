@@ -118,4 +118,8 @@ MFDOIT is designed with a modern, cloud-native serverless architecture focused o
 
 ---
 
+## 📄 License & Copyright
+
+Copyright &copy; 2026 [BOXdev.com, LLC](https://boxdev.com). All rights reserved.
+
 *Maintained by Colin Wilkinson ([@wreckingadm](https://github.com/wreckingadm)).*
