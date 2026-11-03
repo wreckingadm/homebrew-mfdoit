@@ -16,7 +16,7 @@ Official [Homebrew](https://brew.sh/) tap for **MFDOIT** — a cloud-native, hig
 **MFDOIT** is an actively developed personal productivity ecosystem engineered to eliminate task clutter and decision fatigue. It blends fast, keyboard-first task entry with structured matrix prioritization to help engineers, builders, and professionals focus on what actually moves the needle each day.
 
 ### Highlights
-- 🎯 **Matrix Prioritization:** Franklin Covey-inspired priority framework (`A1`–`C9`) with automated ordering across "Today" and "Backlog" streams.
+- 🎯 **Matrix Prioritization:** High-impact alphanumeric priority framework (`A1`–`C9`) with automated ordering across "Today" and "Backlog" streams.
 - ⚡ **Lightning-Fast CLI:** Full-featured command-line client (`mfdoit` and alias `mfd`) with single-command actions, interactive terminal GUI dashboard, and natural shorthand parsing (e.g. `A1 Ship v1.21 #infra /s`).
 - 🤖 **Automated Carryover:** Cloud-scheduled automation seamlessly rolls forward uncompleted tasks and preserves context with threaded notes and activity logs.
 - 🔍 **Keyboard Spotlight (Cmd+K):** Instant global search and tag filtering across all active and historical tasks.
